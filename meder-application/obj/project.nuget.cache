@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gOt8Lc4QWgc=",
+  "dgSpecHash": "i+7oAdruxlQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alloye\\Pictures\\MEDER-Estoque-Medicamentos-Hospitalares-ADS\\pmv-ads-2024-2-e2-proj-int-t2-pmv-ads-2024-2-e2-mederfarma\\meder-application\\meder-application.csproj",
+  "projectFilePath": "C:\\Users\\Alloye\\Pictures\\MEDER-Estoque-Medicamentos-Hospitalares-ADS\\meder-application\\meder-application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alloye\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Alloye\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

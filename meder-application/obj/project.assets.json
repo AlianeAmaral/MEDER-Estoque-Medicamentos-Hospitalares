@@ -4111,11 +4111,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alloye\\Pictures\\MEDER-Estoque-Medicamentos-Hospitalares-ADS\\pmv-ads-2024-2-e2-proj-int-t2-pmv-ads-2024-2-e2-mederfarma\\meder-application\\meder-application.csproj",
+      "projectUniqueName": "C:\\Users\\Alloye\\Pictures\\MEDER-Estoque-Medicamentos-Hospitalares-ADS\\meder-application\\meder-application.csproj",
       "projectName": "meder-application",
-      "projectPath": "C:\\Users\\Alloye\\Pictures\\MEDER-Estoque-Medicamentos-Hospitalares-ADS\\pmv-ads-2024-2-e2-proj-int-t2-pmv-ads-2024-2-e2-mederfarma\\meder-application\\meder-application.csproj",
+      "projectPath": "C:\\Users\\Alloye\\Pictures\\MEDER-Estoque-Medicamentos-Hospitalares-ADS\\meder-application\\meder-application.csproj",
       "packagesPath": "C:\\Users\\Alloye\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alloye\\Pictures\\MEDER-Estoque-Medicamentos-Hospitalares-ADS\\pmv-ads-2024-2-e2-proj-int-t2-pmv-ads-2024-2-e2-mederfarma\\meder-application\\obj\\",
+      "outputPath": "C:\\Users\\Alloye\\Pictures\\MEDER-Estoque-Medicamentos-Hospitalares-ADS\\meder-application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alloye\\AppData\\Roaming\\NuGet\\NuGet.Config",
