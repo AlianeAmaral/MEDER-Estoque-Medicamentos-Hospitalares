@@ -1,0 +1,33 @@
+@model IEnumerable<MederApplication.Models.Medicamento>
+
+<h2>Lista de Medicamentos</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Dose</th>
+            <th>Tipo</th>
+            <th>Lote</th>
+            <th>Validade</th>
+            <th>Localização</th>
+            <th>Quantidade</th>
+
+            <th>MovimentacaoId</th> 
+            <th>TipoMovimentacao</th>
+            <th>Responsavel</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var medicamento in Model)
+    {
+        <tr>
+            <td>@medicamento.Nome</td>
+            <td>@medicamento.Lote</td>
+            <td>@medicamento.Validade.ToShortDateString()</td>
+            <td>@medicamento.Localizacao</td>
+            <td>@medicamento.Quantidade</td>
+        </tr>
+    }
+    </tbody>
+</table>
